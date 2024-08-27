@@ -1,0 +1,23 @@
+.most__popular{
+
+    h2{
+        color: #fff;
+        text-align: center;
+        margin-bottom: 12px;
+        font-size: 28px;
+    }
+
+    &__grid{
+        display: grid;
+        padding: 6px 65px;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+        gap: 24px;
+
+        img{
+            width: 100%;
+            object-fit: contain;
+        }
+    }
+
+    
+}
