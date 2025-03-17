@@ -5,6 +5,7 @@ Desenvolvi um site utilizando como inspiração a plataforma de streming crunchy
 
 * Html
 * Css
+* Scss
   
 # Metodologia
 
@@ -15,4 +16,4 @@ Utilizei HTML para criar seções bem definidas.
 Apliquei CSS para a estilização e design.
 
 # Link da build na Vercel
-[https://vinicius-efood.vercel.app/](https://vinicius-petshop.vercel.app/)
+https://clone-crunchyrollv1.vercel.app/
